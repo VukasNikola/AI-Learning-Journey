@@ -1,5 +1,6 @@
 # AI Prep Plan 🚀
 
+## QUICK UPDATE: I have taken some time off of this project to do some personal growth and to also focus on my studies. I have been working on a ROS/C++ project and would like to be able to share that as well. I felt like not updating this project felt unprofessional and wanted to leave this here. Learning one project deeply at a time gives me the space to properly learn and grow. Thank you, and I will be in touch soon <3 
 This is a general outline, with a flexible schedule. I will be working on what I feel is best at the moment. Follow my journey <3
 
 ---
