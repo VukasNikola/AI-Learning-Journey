@@ -1,7 +1,16 @@
 # AI Prep Plan 🚀
 
-## QUICK UPDATE: I have taken some time off of this project to do some personal growth and to also focus on my studies. I have been working on a ROS/C++ project and would like to be able to share that as well. I felt like not updating this project felt unprofessional and wanted to leave this here. Learning one project deeply at a time gives me the space to properly learn and grow. Thank you, and I will be in touch soon <3 
-This is a general outline, with a flexible schedule. I will be working on what I feel is best at the moment. Follow my journey <3
+## About this repo
+
+This repository contains my self-study journey into Artificial Intelligence and Deep Learning.  
+I started it to build strong foundations in ML/AI, and it includes notes, reviews, and experiments.  
+
+AI has been my passion for a while now, and I would love to work with it professionally if given the chance.
+
+That passion is what inspired my current long-term project: building a custom rover from scratch.  
+The plan is for the rover to combine **Embedded Systems, ROS, and AI (via Isaac Sim and Isaac Lab)**, giving me a way to apply AI techniques in a practical robotics context. This will hopefully help me develop into a well rounded mechatronics engineer!  
+
+👉 This repo remains a **reference library of AI concepts** that I plan to expand again as part of the rover project.
 
 ---
 
